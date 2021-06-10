@@ -9,3 +9,5 @@ Adding new lines
 Adding new line for branch 2
 
 Adding new line for branch 3
+
+Added new line
